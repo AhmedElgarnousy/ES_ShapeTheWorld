@@ -2,13 +2,15 @@
 
 ###### Jonathan Valvano and Ramesh Yerraballi
 
-
 ---
+
 ### Links
 
-[Course Link](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
-[Videos Link](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
+[Book Online new Version - 8th printing, dated July 2021](https://users.ece.utexas.edu/~valvano/Volume1/IntroToEmbSys/)
+[ECE319K Introduction to Embedded Systems](https://users.ece.utexas.edu/%7Evalvano/Volume1/)
 
+[Book Course Link](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/)
+[Videos Link](https://users.ece.utexas.edu/~valvano/Volume1/E-Book/VideoLinks.htm)
 [Env Setup](https://users.ece.utexas.edu/~valvano/EE445L/downloads.htm)
 
 [How to create new project from scratch in Keil 5](https://users.ece.utexas.edu/~valvano/arm/NewProject.htm)
